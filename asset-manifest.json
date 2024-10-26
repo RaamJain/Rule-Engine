@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rule-Engine/static/css/main.6d903fa2.css",
+    "main.js": "/Rule-Engine/static/js/main.f35a2290.js",
+    "static/js/453.b7e531ad.chunk.js": "/Rule-Engine/static/js/453.b7e531ad.chunk.js",
+    "index.html": "/Rule-Engine/index.html",
+    "main.6d903fa2.css.map": "/Rule-Engine/static/css/main.6d903fa2.css.map",
+    "main.f35a2290.js.map": "/Rule-Engine/static/js/main.f35a2290.js.map",
+    "453.b7e531ad.chunk.js.map": "/Rule-Engine/static/js/453.b7e531ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d903fa2.css",
+    "static/js/main.f35a2290.js"
+  ]
+}
